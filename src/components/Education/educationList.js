@@ -6,7 +6,7 @@ export const educationList = [
   },
   {
     title: 'Naval Academy of P.S. Nachimov',
-    dateDue: '● Specialist of Navigation & Engineering',
-    direction: '● Ukraine 2015',
+    dateDue: '● Ukraine 2015',
+    direction: '● Specialist of Navigation & Engineering',
   },
 ];
