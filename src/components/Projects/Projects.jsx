@@ -12,7 +12,7 @@ const Projects = () => {
   const { darkMode } = useSelector(darkThemeSelector);
 
   return (
-    <Boxes display={'flex'} mt={4} ml={4} flexDirection={'column'}>
+    <Boxes display={'flex'} mt={4} ml={5} flexDirection={'column'}>
       <h2>Projects</h2>
       <Boxes>
         {projects.map(
