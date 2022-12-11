@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cv-volovenko-ruslan/static/css/main.7acaea2f.css",
-    "main.js": "/cv-volovenko-ruslan/static/js/main.c475b16f.js",
+    "main.js": "/cv-volovenko-ruslan/static/js/main.3ef85c74.js",
     "static/js/483.1b467f85.chunk.js": "/cv-volovenko-ruslan/static/js/483.1b467f85.chunk.js",
     "static/js/500.43a784e9.chunk.js": "/cv-volovenko-ruslan/static/js/500.43a784e9.chunk.js",
     "static/js/471.efc00b65.chunk.js": "/cv-volovenko-ruslan/static/js/471.efc00b65.chunk.js",
@@ -17,7 +17,7 @@
     "static/media/IMG_0012.JPG": "/cv-volovenko-ruslan/static/media/IMG_0012.3641de4aeed8b543f512.JPG",
     "index.html": "/cv-volovenko-ruslan/index.html",
     "main.7acaea2f.css.map": "/cv-volovenko-ruslan/static/css/main.7acaea2f.css.map",
-    "main.c475b16f.js.map": "/cv-volovenko-ruslan/static/js/main.c475b16f.js.map",
+    "main.3ef85c74.js.map": "/cv-volovenko-ruslan/static/js/main.3ef85c74.js.map",
     "483.1b467f85.chunk.js.map": "/cv-volovenko-ruslan/static/js/483.1b467f85.chunk.js.map",
     "500.43a784e9.chunk.js.map": "/cv-volovenko-ruslan/static/js/500.43a784e9.chunk.js.map",
     "471.efc00b65.chunk.js.map": "/cv-volovenko-ruslan/static/js/471.efc00b65.chunk.js.map",
@@ -33,6 +33,6 @@
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.c475b16f.js"
+    "static/js/main.3ef85c74.js"
   ]
 }
