@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'SlimMom',
     gitRepo: 'https://github.com/Vokoloven/happy-milf',
-    livePage: 'd',
+    livePage: 'https://vokoloven.github.io/happy-milf/',
     usedLanguages: [
       'ReactJs',
       'StyledComponents',

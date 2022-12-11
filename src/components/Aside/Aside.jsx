@@ -36,41 +36,73 @@ const Aside = () => {
           <Boxes as={'h3'} mt={4} fontSize={4}>
             Contacts
           </Boxes>
-          <Boxes as={'a'} href="tel:+380983512576" mt={2}>
+          <Boxes
+            as={'a'}
+            href="tel:+380983512576"
+            rel="noreferrer noopener nofollow"
+            mt={2}
+          >
             +38 098 351 25 76
           </Boxes>
-          <Boxes as={'a'} href="mailto:vokoloven@gmail.com" mt={2}>
+          <Boxes
+            as={'a'}
+            href="mailto:vokoloven@gmail.com"
+            rel="noreferrer noopener nofollow"
+            mt={2}
+          >
             vokoloven@gmail.com
           </Boxes>
           {!darkMode ? (
             <>
-              <Boxes as={'a'} href="https://github.com/Vokoloven" mt={2}>
+              <Boxes
+                as={'a'}
+                href="https://github.com/Vokoloven"
+                rel="noreferrer noopener nofollow"
+                mt={2}
+              >
                 <GitHubIcon sx={{ color: `${colors.body}` }} /> GitHub
               </Boxes>
               <Boxes
                 as={'a'}
                 href="http://www.linkedin.com/in/vokoloven"
+                rel="noreferrer noopener nofollow"
                 mt={2}
               >
                 <LinkedInIcon sx={{ color: `${colors.body}` }} /> LinkedIn
               </Boxes>
-              <Boxes as={'a'} href="https://t.me/vokoloven" mt={2}>
+              <Boxes
+                as={'a'}
+                href="https://t.me/vokoloven"
+                rel="noreferrer noopener nofollow"
+                mt={2}
+              >
                 <TelegramIcon sx={{ color: `${colors.body}` }} /> Telegram
               </Boxes>
             </>
           ) : (
             <>
-              <Boxes as={'a'} href="https://github.com/Vokoloven" mt={2}>
+              <Boxes
+                as={'a'}
+                href="https://github.com/Vokoloven"
+                rel="noreferrer noopener nofollow"
+                mt={2}
+              >
                 <GitHubIcon sx={{ color: `${colors.eliphant}` }} /> GitHub
               </Boxes>
               <Boxes
                 as={'a'}
                 href="http://www.linkedin.com/in/vokoloven"
+                rel="noreferrer noopener nofollow"
                 mt={2}
               >
                 <LinkedInIcon sx={{ color: `${colors.eliphant}` }} /> LinkedIn
               </Boxes>
-              <Boxes as={'a'} href="https://t.me/vokoloven" mt={2}>
+              <Boxes
+                as={'a'}
+                href="https://t.me/vokoloven"
+                rel="noreferrer noopener nofollow"
+                mt={2}
+              >
                 <TelegramIcon sx={{ color: `${colors.eliphant}` }} /> Telegram
               </Boxes>
             </>
