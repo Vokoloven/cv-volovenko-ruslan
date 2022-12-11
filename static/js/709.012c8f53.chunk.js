@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_homework_template=self.webpackChunkreact_homework_template||[]).push([[709],{9709:function(e,t,i){i.r(t),i.d(t,{educationList:function(){return a}});var a=[{title:"IT School GoIT (Kyiv)",dateDue:" July 2022 - up to now",direction:"\u25cf Fullstack Developer"},{title:"Naval Academy of P.S. Nachimov",dateDue:" Ukraine 2015",direction:"\u25cf Specialist of Navigation & Engineering"}]}}]);
+//# sourceMappingURL=709.012c8f53.chunk.js.map
