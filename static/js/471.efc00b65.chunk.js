@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_homework_template=self.webpackChunkreact_homework_template||[]).push([[471],{471:function(e,a,t){t.r(a);var i={techSkills:["\u25cf HTML","\u25cf CSS3","\u25cf JavaScript","\u25cf ReactJs","\u25cf Redux"],softSkills:["\u25cf Team Lead","\u25cf Leadership","\u25cf Team Work","\u25cf Communication","\u25cf Adaptability","\u25cf Listening"],languages:["\u25cf English - Upper-Intermediate","\u25cf Ukrainian - Native","\u25cf Russian - Native"]};a.default=i}}]);
+//# sourceMappingURL=471.efc00b65.chunk.js.map
