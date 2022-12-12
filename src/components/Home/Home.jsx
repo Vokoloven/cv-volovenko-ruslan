@@ -10,8 +10,8 @@ const Home = () => {
 
   return (
     <>
-      {screenResolution === 'mobile' ? (
-        <Boxes display={'flex'} ml={5} flexDirection={'column'}>
+      {screenResolution === 'mobile' || screenResolution === 'tablet' ? (
+        <Boxes display={'flex'} flexDirection={'column'} mt={4}>
           {(screenResolution === 'desktop' ||
             screenResolution === 'tablet') && (
             <Boxes>
