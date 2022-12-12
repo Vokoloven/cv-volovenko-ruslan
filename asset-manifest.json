@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cv-volovenko-ruslan/static/css/main.7acaea2f.css",
-    "main.js": "/cv-volovenko-ruslan/static/js/main.66aba7f4.js",
-    "static/js/483.afd707d6.chunk.js": "/cv-volovenko-ruslan/static/js/483.afd707d6.chunk.js",
+    "main.js": "/cv-volovenko-ruslan/static/js/main.d6761843.js",
+    "static/js/483.a595ddcb.chunk.js": "/cv-volovenko-ruslan/static/js/483.a595ddcb.chunk.js",
     "static/js/500.43a784e9.chunk.js": "/cv-volovenko-ruslan/static/js/500.43a784e9.chunk.js",
     "static/js/471.efc00b65.chunk.js": "/cv-volovenko-ruslan/static/js/471.efc00b65.chunk.js",
     "static/js/90.e0adb2b3.chunk.js": "/cv-volovenko-ruslan/static/js/90.e0adb2b3.chunk.js",
     "static/js/709.012c8f53.chunk.js": "/cv-volovenko-ruslan/static/js/709.012c8f53.chunk.js",
     "static/js/0.e8813de7.chunk.js": "/cv-volovenko-ruslan/static/js/0.e8813de7.chunk.js",
     "static/js/842.553e97bc.chunk.js": "/cv-volovenko-ruslan/static/js/842.553e97bc.chunk.js",
-    "static/js/69.163967b8.chunk.js": "/cv-volovenko-ruslan/static/js/69.163967b8.chunk.js",
+    "static/js/69.217711b2.chunk.js": "/cv-volovenko-ruslan/static/js/69.217711b2.chunk.js",
     "static/js/145.ed21e1f5.chunk.js": "/cv-volovenko-ruslan/static/js/145.ed21e1f5.chunk.js",
     "static/js/825.6b01a846.chunk.js": "/cv-volovenko-ruslan/static/js/825.6b01a846.chunk.js",
     "static/js/717.e066730b.chunk.js": "/cv-volovenko-ruslan/static/js/717.e066730b.chunk.js",
@@ -18,14 +18,14 @@
     "static/media/IMG_0012.JPG": "/cv-volovenko-ruslan/static/media/IMG_0012.3641de4aeed8b543f512.JPG",
     "index.html": "/cv-volovenko-ruslan/index.html",
     "main.7acaea2f.css.map": "/cv-volovenko-ruslan/static/css/main.7acaea2f.css.map",
-    "main.66aba7f4.js.map": "/cv-volovenko-ruslan/static/js/main.66aba7f4.js.map",
-    "483.afd707d6.chunk.js.map": "/cv-volovenko-ruslan/static/js/483.afd707d6.chunk.js.map",
+    "main.d6761843.js.map": "/cv-volovenko-ruslan/static/js/main.d6761843.js.map",
+    "483.a595ddcb.chunk.js.map": "/cv-volovenko-ruslan/static/js/483.a595ddcb.chunk.js.map",
     "500.43a784e9.chunk.js.map": "/cv-volovenko-ruslan/static/js/500.43a784e9.chunk.js.map",
     "471.efc00b65.chunk.js.map": "/cv-volovenko-ruslan/static/js/471.efc00b65.chunk.js.map",
     "90.e0adb2b3.chunk.js.map": "/cv-volovenko-ruslan/static/js/90.e0adb2b3.chunk.js.map",
     "709.012c8f53.chunk.js.map": "/cv-volovenko-ruslan/static/js/709.012c8f53.chunk.js.map",
     "842.553e97bc.chunk.js.map": "/cv-volovenko-ruslan/static/js/842.553e97bc.chunk.js.map",
-    "69.163967b8.chunk.js.map": "/cv-volovenko-ruslan/static/js/69.163967b8.chunk.js.map",
+    "69.217711b2.chunk.js.map": "/cv-volovenko-ruslan/static/js/69.217711b2.chunk.js.map",
     "145.ed21e1f5.chunk.js.map": "/cv-volovenko-ruslan/static/js/145.ed21e1f5.chunk.js.map",
     "825.6b01a846.chunk.js.map": "/cv-volovenko-ruslan/static/js/825.6b01a846.chunk.js.map",
     "717.e066730b.chunk.js.map": "/cv-volovenko-ruslan/static/js/717.e066730b.chunk.js.map",
@@ -34,6 +34,6 @@
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.66aba7f4.js"
+    "static/js/main.d6761843.js"
   ]
 }
