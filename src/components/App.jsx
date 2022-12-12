@@ -22,7 +22,7 @@ export const App = () => {
   useScreenChecker();
 
   return (
-    <>
+    <Boxes pb={4}>
       {!darkMode ? <LightGlobalStyle /> : <DarkGlobalStyle />}
       <Container>
         <ResponsiveAppBar />
@@ -76,6 +76,6 @@ export const App = () => {
           </Boxes>
         </Boxes>
       </Container>
-    </>
+    </Boxes>
   );
 };

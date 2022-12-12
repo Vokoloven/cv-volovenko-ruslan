@@ -28,3 +28,11 @@ export const StyledNavLinkListNight = styled(NavLink)`
     color: ${p => p.theme.colors.switcher};
   }
 `;
+
+export const StyledNavLinkButtonDownloadDay = styled(NavLink)`
+  color: ${p => p.theme.colors.white};
+`;
+
+export const StyledNavLinkButtonDownloadNight = styled(NavLink)`
+  color: ${p => p.theme.colors.elephant};
+`;
