@@ -7,10 +7,6 @@ import { darkThemeSwitcher } from 'redux/darkTheme/darkThemeSlice';
 import { darkThemeSelector } from 'redux/Selectors/darkThemeSelector';
 import colors from 'Theme/colors';
 import { Boxes } from 'Theme/Boxes';
-import {
-  StyledNavLinkButtonDownloadDay,
-  StyledNavLinkButtonDownloadNight,
-} from './StyledNavLink';
 
 const GreenSwitch = styled(Switch)(({ theme }) => ({
   '& .MuiSwitch-switchBase.Mui-checked': {
@@ -28,6 +24,8 @@ const GreenSwitch = styled(Switch)(({ theme }) => ({
 }));
 
 const label = { inputProps: { 'aria-label': 'Color switch demo' } };
+const CV =
+  'https://drive.google.com/file/d/1iF3-wf_Tw3EXB1C--Yf0pTYh709YSqt5/view?usp=share_link';
 
 export const ColorSwitches = () => {
   const dispatch = useDispatch();
@@ -43,24 +41,17 @@ export const ColorSwitches = () => {
       {!darkMode ? (
         <Boxes>
           <NightsStayIcon sx={{ color: colors.white, fontSize: 30 }} />
-          <StyledNavLinkButtonDownloadDay
-            to={'download/cv-volovenko-ruslan.pdf'}
-            target="_blank"
-            download
-          >
-            <FileDownloadIcon sx={{ fontSize: 30 }} />
-          </StyledNavLinkButtonDownloadDay>
+          <a href={CV} target="_blank" rel="noreferrer noopener nofollow">
+            <FileDownloadIcon sx={{ color: colors.white, fontSize: 30 }} />
+          </a>
         </Boxes>
       ) : (
         <Boxes>
           <NightsStayIcon sx={{ color: colors.switcher, fontSize: 30 }} />
-          <StyledNavLinkButtonDownloadNight
-            to={'download/cv-volovenko-ruslan.pdf'}
-            target="_blank"
-            download
-          >
-            <FileDownloadIcon sx={{ fontSize: 30 }} />
-          </StyledNavLinkButtonDownloadNight>
+
+          <a href={CV} target="_blank" rel="noreferrer noopener nofollow">
+            <FileDownloadIcon sx={{ color: colors.eliphant, fontSize: 30 }} />
+          </a>
         </Boxes>
       )}
     </Boxes>
