@@ -15,6 +15,7 @@ const lazyLoading = path => lazy(() => import(`${path}`));
 const Aside = lazyLoading('./Aside/Aside');
 const Home = lazyLoading('components/Home/Home');
 const Projects = lazyLoading('./Projects/Projects');
+const NotFound = lazyLoading('components/NotFound/NotFound');
 
 export const App = () => {
   const { screenResolution } = useSelector(screenStatus);
@@ -70,6 +71,7 @@ export const App = () => {
                     <Route path={'projects'} element={<Projects />}></Route>
                   )}
                   <Route path={'summary'} element={<Home />}></Route>
+                  <Route path="*" element={<NotFound />} />
                 </Routes>
               </Suspense>
             </Boxes>
