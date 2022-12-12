@@ -30,6 +30,7 @@ const Projects = () => {
                   as={'a'}
                   mr={2}
                   href={gitRepo}
+                  target="_blank"
                   rel="noreferrer noopener nofollow"
                   fontWeight={'bold'}
                 >
@@ -39,6 +40,7 @@ const Projects = () => {
                   as={'a'}
                   fontSize={3}
                   href={livePage}
+                  target="_blank"
                   rel="noreferrer noopener nofollow"
                   fontWeight={'bold'}
                 >
@@ -64,6 +66,7 @@ const Projects = () => {
                   as={'a'}
                   mr={2}
                   href={gitRepo}
+                  target="_blank"
                   rel="noreferrer noopener nofollow"
                   fontWeight={'bold'}
                 >
@@ -73,6 +76,7 @@ const Projects = () => {
                   as={'a'}
                   fontSize={3}
                   href={livePage}
+                  target="_blank"
                   rel="noreferrer noopener nofollow"
                   fontWeight={'bold'}
                 >

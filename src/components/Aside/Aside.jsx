@@ -39,6 +39,7 @@ const Aside = () => {
           <Boxes
             as={'a'}
             href="tel:+380983512576"
+            target="_blank"
             rel="noreferrer noopener nofollow"
             mt={2}
           >
@@ -47,6 +48,7 @@ const Aside = () => {
           <Boxes
             as={'a'}
             href="mailto:vokoloven@gmail.com"
+            target="_blank"
             rel="noreferrer noopener nofollow"
             mt={2}
           >
@@ -57,6 +59,7 @@ const Aside = () => {
               <Boxes
                 as={'a'}
                 href="https://github.com/Vokoloven"
+                target="_blank"
                 rel="noreferrer noopener nofollow"
                 mt={2}
               >
@@ -65,6 +68,7 @@ const Aside = () => {
               <Boxes
                 as={'a'}
                 href="http://www.linkedin.com/in/vokoloven"
+                target="_blank"
                 rel="noreferrer noopener nofollow"
                 mt={2}
               >
@@ -73,6 +77,7 @@ const Aside = () => {
               <Boxes
                 as={'a'}
                 href="https://t.me/vokoloven"
+                target="_blank"
                 rel="noreferrer noopener nofollow"
                 mt={2}
               >
@@ -84,6 +89,7 @@ const Aside = () => {
               <Boxes
                 as={'a'}
                 href="https://github.com/Vokoloven"
+                target="_blank"
                 rel="noreferrer noopener nofollow"
                 mt={2}
               >
@@ -92,6 +98,7 @@ const Aside = () => {
               <Boxes
                 as={'a'}
                 href="http://www.linkedin.com/in/vokoloven"
+                target="_blank"
                 rel="noreferrer noopener nofollow"
                 mt={2}
               >
@@ -100,6 +107,7 @@ const Aside = () => {
               <Boxes
                 as={'a'}
                 href="https://t.me/vokoloven"
+                target="_blank"
                 rel="noreferrer noopener nofollow"
                 mt={2}
               >
