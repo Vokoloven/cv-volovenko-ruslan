@@ -44,7 +44,7 @@ export const ColorSwitches = () => {
         <Boxes>
           <NightsStayIcon sx={{ color: colors.white, fontSize: 30 }} />
           <StyledNavLinkButtonDownloadDay
-            to={'download/CV Volovenko Ruslan.pdf'}
+            to={'download/cv-volovenko-ruslan.pdf'}
             target="_blank"
             download
           >
@@ -55,7 +55,7 @@ export const ColorSwitches = () => {
         <Boxes>
           <NightsStayIcon sx={{ color: colors.switcher, fontSize: 30 }} />
           <StyledNavLinkButtonDownloadNight
-            to={'download/CV Volovenko Ruslan.pdf'}
+            to={'download/cv-volovenko-ruslan.pdf'}
             target="_blank"
             download
           >
